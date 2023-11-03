@@ -1,0 +1,5 @@
+Host name/address: flora.db.elephantsql.com
+Port: 5432
+Maintenance databse: yknwjcyz
+Username: yknwjcyz
+Password: E8Ony73zyBoog8E8p6tqGbzDK8Prl_iN
